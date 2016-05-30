@@ -1,7 +1,7 @@
 {
-  "name": "material-ui-example-browserify",
-  "version": "0.15.0",
-  "description": "Sample project that uses material-ui",
+  "name": "Lewt",
+  "version": "0.1",
+  "description": "Lewt, a fantasy, guild management web app",
   "repository": {
     "type": "git",
     "url": "https://github.com/callemall/material-ui.git"
