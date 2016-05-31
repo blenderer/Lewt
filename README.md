@@ -1,15 +1,15 @@
 Lewt, a fantasy, guild management web app
 
-1. Name: Lewt
-1. Description: Fantasy Adventurer Guild Manager
-1. Genre:
+1. **Name**: Lewt
+1. **Description**: Fantasy Adventurer Guild Manager
+1. **Genre**:
   1. Management Simulator
   1. RPG
   1. Procedural Generation
-1. Objectives:
+1. **Objectives**:
   1. Successfully complete various Quests
   1. Discover new content via unlockables
-1. Content:
+1. **Content**:
   1. Adventurers
     1. Class
     1. Race
