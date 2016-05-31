@@ -1,4 +1,6 @@
-Lewt, a fantasy, guild management web app
+# Lewt
+### A Fantasy Adventurer Guild Manager
+
 
 1. **Name**: Lewt
 1. **Description**: Fantasy Adventurer Guild Manager
